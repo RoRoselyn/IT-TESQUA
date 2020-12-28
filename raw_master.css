@@ -1,0 +1,69 @@
+body {
+  background-color: red;
+}
+
+.header {
+   background-color: orange;
+   text-align: center;
+   font-size: xx-large;
+   font-weight: bold;
+   color: brown;
+   width: 100%;
+}
+p{
+    color: white;
+    text-align: center;
+    font-size: medium;
+}
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: black;
+    color: white;
+    text-align: center;
+}
+h3 {
+    text-align: center;
+    color: white;
+}
+.btn-group button{
+    background-color: #4CAF50;
+    border: 1px solid green; 
+    color: white; 
+    padding: 10px 24px;
+    cursor: pointer;
+    float: left;
+}
+.links a{
+    background-color: maroon;
+    border: 1px solid black;
+    padding: 10px 30px;
+    color: white;
+    cursor: pointer;
+}
+.h4{
+    text-align: center;
+    color:orange;
+    font-weight: bold;
+    font-style: italic;
+    font-size: larger;
+}
+.images img{
+    padding: 5px 5px ;
+    padding-top: 40px;
+    float: left;
+}
+.description ol{
+ padding: 10px 30px ; 
+ float: left; 
+}
+h2{
+    color: brown;
+    font-size: x-large;
+}
+li{
+    color: black;
+    font-size: larger;
+}
